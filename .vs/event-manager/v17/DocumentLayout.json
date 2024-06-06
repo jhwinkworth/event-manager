@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|solutionrelative:event-manager.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|solutionrelative:event-manager.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Program.cs",
-              "RelativeDocumentMoniker": "event-manager.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Program.cs",
-              "RelativeToolTip": "event-manager.Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T14:38:32.633Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -92,14 +79,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\src\\main.jsx",
-              "RelativeDocumentMoniker": "event-manager.client\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\src\\main.jsx",
-              "RelativeToolTip": "event-manager.client\\src\\main.jsx",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\.gitignore",
+              "RelativeDocumentMoniker": "event-manager.client\\.gitignore",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\.gitignore",
+              "RelativeToolTip": "event-manager.client\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-06T15:59:44.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Program.cs",
+              "RelativeDocumentMoniker": "event-manager.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Program.cs",
+              "RelativeToolTip": "event-manager.Server\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-06T14:37:54.853Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:38:32.633Z",
               "EditorCaption": ""
             }
           ]
