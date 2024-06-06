@@ -1,0 +1,1 @@
+C:\Users\jacob.winkworth\source\repos\event-manager\event-manager.client\obj\Debug\event-manager.client.esproj.CoreCompileInputs.cache

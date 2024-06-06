@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Yu4MbCRRlHjHjZuiEOd+NynLSiCs5DMgTX5wuXhbTr8=",
+  "Source": "event-manager.Server",
+  "BasePath": "_content/event-manager.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\event-manager.client.esproj",
+      "Version": 2,
+      "Source": "event-manager.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

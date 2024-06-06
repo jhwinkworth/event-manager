@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\..\\event-manager.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
