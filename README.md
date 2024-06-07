@@ -5,7 +5,7 @@ Main tasks
 * Book venue
 * Book DJs
 * Hire decks
-* Hire photographer
+* Book photographer
 
 ## Venue
 As a user, I want to be able to book a venue. The following tasks must be achieved to do so:
@@ -37,7 +37,7 @@ As a user, I want to be able to hire DJs. The following tasks must be achieved t
 * Set reminder for return
 
 ## Photographer
-As a user, I want to be able to hire a photographer. The following tasks must be achieved to do so:
+As a user, I want to be able to book a photographer. The following tasks must be achieved to do so:
 * Enquire via email / dm
 * Confirm
 * Pay on receipt of photos
