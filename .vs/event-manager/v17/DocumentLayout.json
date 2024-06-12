@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|solutionrelative:event-manager.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\src\\event\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|solutionrelative:event-manager.client\\src\\event\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.server\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|solutionrelative:event-manager.server\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|solutionrelative:event-manager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.server\\event-manager.development.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|solutionrelative:event-manager.server\\event-manager.development.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|solutionrelative:event-manager.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|solutionrelative:event-manager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.server\\eventdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|solutionrelative:event-manager.server\\eventdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.server\\event-manager.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|solutionrelative:event-manager.server\\event-manager.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|solutionrelative:event-manager.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|solutionrelative:event-manager.client\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|solutionrelative:event-manager.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8713BD62-00D3-4C67-8267-E663625B616E}|event-manager.Server\\event-manager.Server.csproj|solutionrelative:event-manager.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|c:\\users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{837C2224-8175-4474-982F-4C5626AFF8D9}|event-manager.client\\event-manager.client.esproj|solutionrelative:event-manager.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +62,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.jsx",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\src\\Event\\Index.jsx",
+              "RelativeDocumentMoniker": "event-manager.client\\src\\Event\\Index.jsx",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\src\\Event\\Index.jsx",
+              "RelativeToolTip": "event-manager.client\\src\\Event\\Index.jsx",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwCAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-07T13:07:44.383Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "event-manager.Server\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Models\\Event.cs",
+              "RelativeToolTip": "event-manager.Server\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:31:38.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "event-manager.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\appsettings.json",
+              "RelativeToolTip": "event-manager.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T14:01:00.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "event-manager.Development.http",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\event-manager.Development.http",
+              "RelativeDocumentMoniker": "event-manager.Server\\event-manager.Development.http",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\event-manager.Development.http*",
+              "RelativeToolTip": "event-manager.Server\\event-manager.Development.http*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-12T13:59:01.38Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -78,28 +176,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\.gitignore",
-              "RelativeDocumentMoniker": "event-manager.client\\.gitignore",
-              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\.gitignore",
-              "RelativeToolTip": "event-manager.client\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-06T15:59:44.448Z",
+              "DocumentIndex": 8,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "event-manager.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\.vscode\\launch.json",
+              "RelativeToolTip": "event-manager.client\\.vscode\\launch.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T13:42:32.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\index.html",
+              "RelativeDocumentMoniker": "event-manager.client\\index.html",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\index.html",
+              "RelativeToolTip": "event-manager.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-12T13:39:32.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\package.json",
+              "RelativeDocumentMoniker": "event-manager.client\\package.json",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\package.json",
+              "RelativeToolTip": "event-manager.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T13:39:00.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "event-manager.Server",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\event-manager.Server.csproj",
+              "RelativeDocumentMoniker": "event-manager.Server\\event-manager.Server.csproj",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\event-manager.Server.csproj",
+              "RelativeToolTip": "event-manager.Server\\event-manager.Server.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T10:31:32.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Program.cs",
               "RelativeDocumentMoniker": "event-manager.Server\\Program.cs",
               "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Program.cs",
               "RelativeToolTip": "event-manager.Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T14:38:32.633Z",
+              "WhenOpened": "2024-06-11T15:21:17.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "event-manager.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "event-manager.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vxIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T15:20:04.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\vite.config.js",
+              "RelativeDocumentMoniker": "event-manager.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\vite.config.js",
+              "RelativeToolTip": "event-manager.client\\vite.config.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T15:18:31.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventDb.cs",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\EventDb.cs",
+              "RelativeDocumentMoniker": "event-manager.Server\\EventDb.cs",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.Server\\EventDb.cs",
+              "RelativeToolTip": "event-manager.Server\\EventDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:21:56.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "db.json",
+              "DocumentMoniker": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\db.json",
+              "RelativeDocumentMoniker": "event-manager.client\\db.json",
+              "ToolTip": "C:\\Users\\jacob.winkworth\\source\\repos\\event-manager\\event-manager.client\\db.json",
+              "RelativeToolTip": "event-manager.client\\db.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T13:40:05.894Z",
               "EditorCaption": ""
             }
           ]
